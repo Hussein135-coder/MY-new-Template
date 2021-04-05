@@ -438,7 +438,7 @@ text-align: right;
   letter-spacing: 0.8px;
 }
 .icon-item .icon-img{
-background-image: url(/images/service-icon.png);
+background-image: url(images/service-icon.png);
 background-repeat: no-repeat;   
 height: 55px;
  }
